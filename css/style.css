@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Cinze/domine");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body{
+font-family: domine;
+font-size: 18PX;
+margin: 0PX
+}
+
+h1,h2,{
+	font-family: cinze;
+	font-weight: bold;
+
+}
+
+a{
+	text-decoration: none;
+}
